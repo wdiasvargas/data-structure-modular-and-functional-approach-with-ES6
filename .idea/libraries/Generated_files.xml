@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/chapter_01/classes.js" />
+        <item url="file://$PROJECT_DIR$/dist/chapter_01/classes_2.js" />
+        <item url="file://$PROJECT_DIR$/dist/chapter_01/enchanced_object_properties.js" />
+        <item url="file://$PROJECT_DIR$/dist/chapter_01/getters_setters_classes.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/chapter_01/classes.js" />
+      <root url="file://$PROJECT_DIR$/dist/chapter_01/classes_2.js" />
+      <root url="file://$PROJECT_DIR$/dist/chapter_01/enchanced_object_properties.js" />
+      <root url="file://$PROJECT_DIR$/dist/chapter_01/getters_setters_classes.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
