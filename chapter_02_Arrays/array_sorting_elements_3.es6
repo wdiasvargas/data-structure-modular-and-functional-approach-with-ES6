@@ -19,4 +19,4 @@ function	comparePerson(a,	b){
   return	0;
 }
 
-console.log(friends.sort(comparePerson));
+console.log(friends.sort(comparePerson))
