@@ -4,6 +4,4 @@
  *
  **/
 'use strict'
-export function size(){
-  return this.stack.length;
-};
+export default () => this.data = [];

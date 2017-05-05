@@ -4,6 +4,4 @@
  *
  **/
 'use strict'
-export function push (element) {
-  return this.stack.push(element)
-};
+export default (element) => this.data.push(element)

@@ -5,6 +5,7 @@
  **/
 'use strict'
 
+//ES5
 function Stack () {
   let items = [];
   //adiciona elemento ao topo da pilha

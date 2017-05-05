@@ -1,5 +1,5 @@
 /**
- * Write by wdiasvargas on 04/05/17.
+ * Writen by wdiasvargas on 04/05/17.
  *   www.williamdiasvargas.com.br
  *
  **/
@@ -7,14 +7,15 @@
 //STACK com ES6
 export default class Stack {
     constructor (){
+
         this.stack = [];
     }
 
-  push(element) {
+  push(element){
       return this.stack.push(element)
     };
 
-  pop() {
+  pop(){
     this.stack.pop() || -1;
   };
 
@@ -25,13 +26,21 @@ export default class Stack {
   isEmpty(){
     return this.stack.length == 0;
   };
+
   size(){
     return this.stack.length;
   };
+
   clear(){
     return this.stack = [];
-  }
+  };
+
   print(){
-    return console.log(this.stack.toString())
-  }
+    return console.log(toString())
+  };
+
+  toString(){
+    return this.stack.toString()
+  };
+
 }

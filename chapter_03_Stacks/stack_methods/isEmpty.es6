@@ -4,6 +4,4 @@
  *
  **/
 'use strict'
-export function isEmpty(){
-  return this.stack.length == 0;
-};
+export default () => this.data.length == 0;

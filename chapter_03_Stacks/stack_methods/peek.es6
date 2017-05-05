@@ -4,6 +4,4 @@
  *
  **/
 'use strict'
-export function peek(){
-  return this.stack[this.stack.length -1] || -1;
-};
+export default () => this.data[this.stack.length -1] || -1;

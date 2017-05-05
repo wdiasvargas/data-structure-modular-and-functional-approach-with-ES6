@@ -4,6 +4,4 @@
  *
  **/
 'use strict'
-export function pop() {
-  return this.stack.pop() || -1;
-};
+export default () => this.stack.pop() || -1

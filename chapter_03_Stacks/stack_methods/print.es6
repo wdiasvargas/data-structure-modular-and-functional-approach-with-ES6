@@ -4,6 +4,4 @@
  *
  **/
 'use strict'
-export function  print(){
-  return console.log(this.stack.toString())
-}
+export default () => console.log(this.data.toString())
